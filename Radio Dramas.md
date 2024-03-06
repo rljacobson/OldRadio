@@ -337,11 +337,7 @@ The show aired for 22 years, from 1932 to 1954, and followed the exploits of ama
 
 The few earliest episodes were more sitcom than private eye shows, with a studio audience providing scattered laughter at the not-so-funny scripts. Soon the audience was banished, and George went from stumbling comedic hero to tough guy private eye and the music from wah-wah-wah to suspenseful. Valentine's secretary was Claire Brooks, aka Brooksie (Frances Robinson, Virginia Gregg, Lillian Buyeff). As Valentine made his rounds in search of the bad guys, he usually encountered Brooksie's kid brother, Sonny (Eddie Firestone), Lieutenant Riley (Wally Maher) and elevator man Caleb (Joseph Kearns). For the first few shows, Sonny was George's assistant, but he was soon relegated to an occasional character.
 
- Sponsored by Standard Oil, the program was broadcast on the West Cast Mutual Broadcasting System from October 18, 1946 to September 27, 1954, first on Friday evenings and then on Mondays. In its last season, transcriptions were aired in New York, Wednesdays at 9:30pm, from January 20, 1954 to January 12, 1955.
-
- John Hiestand was the program's announcer. Don Clark directed the scripts by David Victor and Jackson Gillis. The background music was supplied by Eddie Dunstedter, initially with a full orchestra. When television supplanted radio as the country's primary home entertainment, radio budgets got skimpier and skimpier and Dunstedter's orchestra was replaced by an organ.
-
-433 Episodes
+433 episodes
 
 ### [Dragnet](https://archive.org/details/Dragnet_OTR)
 
@@ -430,4 +426,3 @@ Quiet, Please! was a radio fantasy and horror program created by Wyllis Cooper, 
 Earning relatively little notice during its initial run, Quiet, Please! has since been praised as one of the finest efforts of the golden age of American radio drama. Professor Richard J. Hand of the University of Glamorgan. In a detailed critical analysis of the series, Hand argued that Cooper and Chappell "created works of astonishing originality" (Hand, 145); he further describes the program as an "extraordinary body of work" (Hand, 158), which established Cooper "as one of the greatest auteurs of horror radio." (Hand, 161) Similarly, radio historian Ron Lackmann declares that the episodes "were exceptionally well written and outstandingly acted" (Lackmann, 226), while John Dunning describes the show as "a potent series bristling with rich imagination."
 
 55 episodes
-

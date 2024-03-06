@@ -1,0 +1,3 @@
+[submodule "ia"]
+	path = ia
+	url = git@github.com:internetarchive/ia.git
